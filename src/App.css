@@ -68,6 +68,7 @@ input{
   display: flex;
   justify-content: center;
   height: 3rem;
+  border-bottom: 1px solid white;
 }
 
 .app-header-bottom > .nav-buttons{
